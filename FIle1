@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="Canais",A&E HD
+http://us12.server.kktango.xyz/HD_AE/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="Canais",A&E
+http://us11.kgolf.store/SD_AE/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="Canais",ANIMAL PLANET
+http://fr.kpapa.live/SD_ANIMAL_PLANET/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="Canais",ANIMAL PLANET HD
+http://fr.ksierra.live/HD_ANIMAL_PLANET/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="http://z4.vc/SV1" group-title="Canais",Band
+http://us11.kromeo.live/SD_BAND/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="http://z4.vc/SV1" group-title="Canais",Band HD
+http://pl.server.kdelta.xyz/HD_BAND/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM001] HD
+http://us14.server.kp2kilo.xyz/HD_BBB_CONFESSIONARIO/video.m3u8?token=07fa0c5815aca44c32f5ff
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM002] HD
+http://us14.server.kp2india.xyz/HD_BBB_COZINHA_CAMAROTE/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM003] HD
+http://us14.server.kpalfa.xyz/HD_BBB_COZINHA_VIP/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM004] HD
+http://us12.server.kkcharlie.xyz/HD_BBB_JARDIM_CAMAROTE/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM005] HD
+http://us12.server.kkalfa.xyz/HD_BBB_PISCINA/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM006] HD
+http://us12.server.kkvictor.xyz/HD_BBB/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM007] HD
+http://us12.server.kecho.store/HD_BBB_QUARTO_CAMAROTE/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM008] HD
+http://us14.server.kp2golf.xyz/HD_BBB_QUARTO_CEU/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM009] HD
+http://us12.server.kktango.xyz/HD_BBB_QUARTO_VILA/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 group-title="Canais",Boomerang
+http://us11.kgolf.store/SD_BOOMERANG/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 group-title="Canais",Boomerang HD
+http://us12.server.kecho.store/HD_BOOMERANG/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="http://z4.vc/Brc" group-title="Canais",Cartoon Network
+http://ge.server.kvictor.live/SD_CARTOON_NETWORK/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="http://z4.vc/Brc" group-title="Canais",Cartoon Network HD
+http://pl.server.kkfoxtrot.xyz/HD_CARTOON_NETWORK/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="http://z4.vc/Lo1" group-title="Canais",Cinemax HD
+http://us14.server.kp2hotel.xyz/HD_CINEMAX/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="http://z4.vc/W6B" group-title="Canais",Discovery Channel
+http://us11.kromeo.live/SD_DISCOVERY/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="http://z4.vc/W6B" group-title="Canais",Discovery Channel HD
+http://us13.kfoxtrot.site/HD_DISCOVERY/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="http://z4.vc/AsO" group-title="Canais",Discovery Turbo
+http://us11.koscar.live/SD_DISCOVERY_TURBO/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="http://z4.vc/AsO" group-title="Canais",Discovery Turbo HD
+http://pl.server.kkfoxtrot.xyz/HD_DISCOVERY_TURBO/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="http://z4.vc/COA" group-title="Canais",Disney
+http://us11.koscar.live/SD_DISNEY/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="http://z4.vc/COA" group-title="Canais",Disney HD
+http://us13.server.kcharlie.live/HD_DISNEY/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="http://z4.vc/n2T" group-title="Canais,Disney XD
+http://ge.server.kuniform.live/SD_DISNEY_XD/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="http://z4.vc/n2T" group-title="Canais",Disney XD HD
+http://us12.server.kkuniform.xyz/HD_DISNEY_XD/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="http://z4.vc/Gcu" group-title="Canais",Fox
+http://us11.kgolf.store/SD_FOX/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="http://z4.vc/Gcu" group-title="Canais",Fox HD
+http://us13.server.kbravo.live/HD_FOX/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 tvg-logo="http://z4.vc/Vlx" group-title="Canais",Globo HD
+http://us14.server.kp2golf.xyz/HD_GLOBO_SP/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
+#EXTINF:-1 group-title="Canais",HBO HD
+http://pl.server.kdelta.xyz/HD_HBO_1/video.m3u8?token=07fa0c5815aca44c32f5ffcbe6d6f878
